@@ -3,6 +3,7 @@
 #Features
 <ul>
 <li>Add Attribute Set Layout Handle (catalog_product_view_attribute_set_id_XX.xml)</li>
+<li>Add Category Level Layout Handle (catalog_category_view_level_XX.xml)</li>
 </ul>
 
 <h2>Composer Installation Instructions</h2>
