@@ -2,10 +2,10 @@
     "name": "magemontreal/additional-layout-handles",
     "description": "MageMontreal Additional Layout Handles",
     "require": {
-        "php": "~7.4.0||~8.1.0||~8.2.0"
+        "php": ">=7.4"
     },
     "type": "magento2-module",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "license": [
         "OSL-3.0"
     ],
